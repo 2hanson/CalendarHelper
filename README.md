@@ -12,4 +12,4 @@ Hanson Yu
 - hangzhong.yu@gmail.com
 
 ## License
-SearchBar is available under the MIT license. See the LICENSE file for more info.
+CalendarHelper is available under the MIT license. See the LICENSE file for more info.
